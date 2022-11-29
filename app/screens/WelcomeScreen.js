@@ -10,7 +10,7 @@ function WelcomeScreen(props) {
     >
         <View style={styles.logoContainer}>
         <Image style={styles.logo} source={require("../assets/logo-red.png")} />
-        <Text style={styles.logoText}>Done with it!</Text>
+        <Text style={styles.logoText}>Done with it</Text>
 
         </View>
       
